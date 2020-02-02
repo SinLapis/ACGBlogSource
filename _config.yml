@@ -82,4 +82,3 @@ deploy:
   type: git
   repo:
     github: ssh://git@github.com/SinLapis/ACGBlog.git,master
-    coding: ssh://git@git.coding.net/SinLapis/ACGBlog.git,master
